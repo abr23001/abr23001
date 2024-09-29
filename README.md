@@ -4,7 +4,7 @@
 - 🎮 Obsessed with Roblox.
 - 💭 Currently working on an AI Opponent in Unity.
 
-Feel free to check back for my projects and updates!
+Feel free to check back for updates!
 
 ---
 
@@ -25,4 +25,4 @@ I'm developing an AI opponent that learns and improves its strategies over time.
 ---
 
 ### 💬 Let's Connect!
-Feel free to reach out or drop a message. I love collaborating on exciting projects!
+Feel free to reach out. I  would love collaborate!
