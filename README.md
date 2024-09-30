@@ -2,7 +2,7 @@
 
 - 👨🏼‍🎓 Studying Computer Science at the University of Connecticut, USA.
 - 🎮 Obsessed with Roblox.
-- 💭 Currently working on an AI Opponent in Unity.
+- 💭 Currently Learning Unity and C.
 
 Feel free to check back for updates!
 
@@ -19,8 +19,8 @@ Feel free to check back for updates!
 ---
 
 ## 🛠️ Current Project
-### AI Learning Opponent in Unity
-I'm developing an AI opponent that learns and improves its strategies over time. Check back for updates!
+### Learning Unity
+I'm learning Unity basics nothing much. Check back for updates!
 
 ---
 
