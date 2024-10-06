@@ -19,8 +19,8 @@ Feel free to check back for updates!
 ---
 
 ## 🛠️ Current Project
-### Learning Unity
-I'm learning Unity basics nothing much. Check back for updates!
+### Learning C
+I'm learning about game/game engine development in C nothing much. Check back for updates.
 
 ---
 
