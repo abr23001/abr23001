@@ -1,26 +1,24 @@
 # 👋 Hi, I'm Abdullah!
 
-- 👨🏼‍🎓 Studying Computer Science at the University of Connecticut, USA.
-- 🎮 Obsessed with Roblox.
-- 💭 Currently Learning Unity and C.
+- 👨🏼‍🎓 Studying Computer Science at the University of Connecticut.
+- 💭 Currently Learning JavaScript.
 
 Feel free to check back for updates!
 
 ---
 
 ## 🌟 Skills
-- **Languages:** C, Python
-- **Technologies:**
+- **Languages:** Python, HTML/CSS, C, Lua
+- **Technologies:** VS Code, PyCharm, Git
   ![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&style=for-the-badge)
-  ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-FF4D00?logo=roblox&style=for-the-badge)
   ![C](https://img.shields.io/badge/C-A8B400?logo=c&style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
 
 ---
 
 ## 🛠️ Current Project
-### Learning C
-I'm learning about game/game engine development in C nothing much. Check back for updates.
+### Learning JavaScript
+I'm learning about full-stack development. Check back for updates.
 
 ---
 
