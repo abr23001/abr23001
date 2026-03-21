@@ -1,5 +1,11 @@
 # 💫 About Me:
-im currently working on a full stack notes app manager. im looking to collaborate on anything. im currently learning Pytorch, LangChain, . i know HTML, CSS, JAVASCRIPT, SQL, C, C++, PYTHON, LUA. ive use technologies such as Node.js, NPM, VS CODE, Google Antigravity, Cursor, Claude Code, MySQL, PostgreSQL, Vim, Ubuntu WSL, Im a junior cs major student at the university of connecticut with a concentration in Data and Analytics. 
+I’m currently working on a full-stack notes manager application. I’m always open to collaborating on interesting projects and building new things.
+
+Right now, I’m learning PyTorch and LangChain to expand into AI and machine learning.
+
+I have experience with HTML, CSS, JavaScript, SQL, C, C++, Python, and Lua. I’ve also worked with technologies and tools such as Node.js, NPM, VS Code, Google Antigravity, Cursor, Claude Code, MySQL, PostgreSQL, Vim, and Ubuntu (WSL).
+
+I’m a junior Computer Science major at the University of Connecticut, with a concentration in Data & Analytics.
 
 
 ## 🌐 Socials:
